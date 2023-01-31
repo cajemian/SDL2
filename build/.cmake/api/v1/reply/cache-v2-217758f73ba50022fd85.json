@@ -67,7 +67,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/cajemian/Reprocessor/SDL2/build"
+			"value" : "/home/cajemian/Documents/SDL/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/cajemian/Reprocessor/SDL2"
+			"value" : "/home/cajemian/Documents/SDL"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1526,6 +1526,22 @@
 			"value" : "1500"
 		},
 		{
+			"name" : "GITCOMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/git"
+		},
+		{
 			"name" : "MAKECOMMAND",
 			"properties" : 
 			[
@@ -1574,7 +1590,7 @@
 			"value" : ""
 		},
 		{
-			"name" : "Project_BINARY_DIR",
+			"name" : "SDL2_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1583,31 +1599,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/cajemian/Reprocessor/SDL2/build"
-		},
-		{
-			"name" : "Project_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "Project_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/cajemian/Reprocessor/SDL2"
+			"value" : "/home/cajemian/Documents/SDL/build"
 		},
 		{
 			"name" : "SDL2_DEMO_BINARY_DIR",
@@ -1619,7 +1611,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/cajemian/Reprocessor/SDL2/build"
+			"value" : "/home/cajemian/Documents/SDL/build"
 		},
 		{
 			"name" : "SDL2_DEMO_IS_TOP_LEVEL",
@@ -1643,7 +1635,31 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/cajemian/Reprocessor/SDL2"
+			"value" : "/home/cajemian/Documents/SDL"
+		},
+		{
+			"name" : "SDL2_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "SDL2_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/cajemian/Documents/SDL"
 		},
 		{
 			"name" : "SITE",

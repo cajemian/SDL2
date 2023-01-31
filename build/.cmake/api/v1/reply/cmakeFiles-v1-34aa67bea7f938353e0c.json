@@ -125,8 +125,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/cajemian/Reprocessor/SDL2/build",
-		"source" : "/home/cajemian/Reprocessor/SDL2"
+		"build" : "/home/cajemian/Documents/SDL/build",
+		"source" : "/home/cajemian/Documents/SDL"
 	},
 	"version" : 
 	{

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/cajemian/Reprocessor/SDL2
+CMAKE_SOURCE_DIR = /home/cajemian/Documents/SDL
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/cajemian/Reprocessor/SDL2/build
+CMAKE_BINARY_DIR = /home/cajemian/Documents/SDL/build
 
 # Utility rule file for ContinuousUpdate.
 
@@ -82,6 +82,6 @@ CMakeFiles/ContinuousUpdate.dir/clean:
 .PHONY : CMakeFiles/ContinuousUpdate.dir/clean
 
 CMakeFiles/ContinuousUpdate.dir/depend:
-	cd /home/cajemian/Reprocessor/SDL2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cajemian/Reprocessor/SDL2 /home/cajemian/Reprocessor/SDL2 /home/cajemian/Reprocessor/SDL2/build /home/cajemian/Reprocessor/SDL2/build /home/cajemian/Reprocessor/SDL2/build/CMakeFiles/ContinuousUpdate.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/cajemian/Documents/SDL/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cajemian/Documents/SDL /home/cajemian/Documents/SDL /home/cajemian/Documents/SDL/build /home/cajemian/Documents/SDL/build /home/cajemian/Documents/SDL/build/CMakeFiles/ContinuousUpdate.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ContinuousUpdate.dir/depend
 

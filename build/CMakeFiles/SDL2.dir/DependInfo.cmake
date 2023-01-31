@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/cajemian/Documents/SDL/src/main.cpp" "CMakeFiles/SDL2_DEMO.dir/src/main.cpp.o" "gcc" "CMakeFiles/SDL2_DEMO.dir/src/main.cpp.o.d"
+  "/home/cajemian/Documents/SDL/main.cpp" "CMakeFiles/SDL2.dir/main.cpp.o" "gcc" "CMakeFiles/SDL2.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.

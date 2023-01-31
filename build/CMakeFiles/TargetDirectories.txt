@@ -1,5 +1,5 @@
-/home/cajemian/Reprocessor/SDL2/build/CMakeFiles/SDL2_DEMO.dir
-/home/cajemian/Reprocessor/SDL2/build/CMakeFiles/package.dir
-/home/cajemian/Reprocessor/SDL2/build/CMakeFiles/package_source.dir
-/home/cajemian/Reprocessor/SDL2/build/CMakeFiles/edit_cache.dir
-/home/cajemian/Reprocessor/SDL2/build/CMakeFiles/rebuild_cache.dir
+/home/cajemian/Documents/SDL/build/CMakeFiles/SDL2_DEMO.dir
+/home/cajemian/Documents/SDL/build/CMakeFiles/package.dir
+/home/cajemian/Documents/SDL/build/CMakeFiles/package_source.dir
+/home/cajemian/Documents/SDL/build/CMakeFiles/edit_cache.dir
+/home/cajemian/Documents/SDL/build/CMakeFiles/rebuild_cache.dir

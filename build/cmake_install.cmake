@@ -1,4 +1,4 @@
-# Install script for directory: /home/cajemian/Reprocessor/SDL2
+# Install script for directory: /home/cajemian/Documents/SDL
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/cajemian/Reprocessor/SDL2/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/cajemian/Documents/SDL/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
