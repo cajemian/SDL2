@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/cajemian/Reprocessor/SDL2/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SDL2_DEMO.dir/src/main.cpp.o -c /home/cajemian/Reprocessor/SDL2/src/main.cpp",
+  "file": "/home/cajemian/Reprocessor/SDL2/src/main.cpp"
+}
+]
